@@ -29,7 +29,7 @@ executable sqq
 
     -- LANGUAGE extensions used by modules in this package.
     -- other-extensions:
-    build-depends:    base ^>=4.16.3.0
+    build-depends:    base >=4.16.3.0
                     , optparse-generic
                     , aeson
                     , text
